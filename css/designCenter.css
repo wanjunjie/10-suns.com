@@ -1,0 +1,246 @@
+.screen-one{
+    color: #fff;
+    height: 1284px;
+    width: 100%;
+    background: url("../img/designCenter/screen-one-bg.jpg") no-repeat center;
+    position: relative;
+}
+.screen-one .design-title{
+    line-height: 1.1;
+}
+.screen-one .design-title-one{
+    font-size: 133px;
+    padding:90px 0 0 70px;
+}
+.screen-one .design-title-two{
+    font-size: 54px;
+    padding-left: 90px;
+}
+.screen-one .design-title-three{
+    font-size: 32px;
+    padding-left: 90px;
+}
+.screen-one .screen-one-footer{
+    width: 100%;
+    position: absolute;
+    text-align: center;
+    letter-spacing: 56px;
+    font-size: 28px;
+    bottom: 70px;
+    left: 0;
+}
+.screen-two{
+    text-align: center;
+}
+.screen-two .sec1{
+    color: #fff;
+    width: 100%;
+    height: 497px;
+    background: url("../img/designCenter/sc-2-se1-bg.jpg") no-repeat center;
+}
+.screen-two .sec1 .line1{
+    padding-top: 90px;
+}
+.screen-two .sec1 ul{
+    display: inline-block;
+}
+.screen-two .sec1 li{
+    float: left;
+}
+.screen-two .sec1 .word-cn{
+    padding-top: 5px;
+    font-size: 54px;
+    line-height: 1.2;
+}
+.screen-two .sec1 .word-en{
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 10px;
+    margin-left: 5px;
+    padding-bottom: 5px;
+}
+.screen-two .sec1 .linked-img{
+    width: 148px;
+    height: 97px;
+    padding: 0 40px;
+}
+.screen-two .sec1 .line2{
+    font-size: 88px;
+}
+.screen-two .sec1 .line3{
+    font-size: 73px;
+    line-height: 1.2;
+}
+.screen-two .sec2 img{
+    width: 100%;
+}
+.screen-two .sec3{
+    color: #000;
+    padding-bottom: 120px;
+}
+.screen-two .sec3 .line1{
+    font-size: 60px;
+    padding-top: 80px;
+}
+.screen-two .sec3 .line2{
+    font-size: 44px;
+}
+.screen-two .sec3 .arrow-left{
+    display: inline-block;
+    width: 80px;
+    height: 27px;
+    background: url("../img/designCenter/arrow-left.png") no-repeat center;
+}
+.screen-three{
+    text-align: center;
+    color: #fff;
+    height: 914px;
+    background: url("../img/designCenter/screen-three-bg.jpg") no-repeat center;
+}
+.screen-three .screen-three-title{
+    letter-spacing: 10px;
+    font-size: 84px;
+    padding-top: 190px;
+
+}
+.screen-three .screen-three-subtitle{
+    font-size: 50px;
+    padding-top: 20px;
+    letter-spacing: 60px;
+    margin-left: 60px;
+}
+.screen-three .screen-three-cricle{
+    width: 872px;
+    margin: 0 auto;
+    padding-top: 60px;
+}
+.screen-three .screen-three-cricle li{
+    float: left;
+    width: 33.33333333333%;
+    height: 224px;
+}
+.screen-three .screen-three-cricle .cricle-item{
+    font-size: 65px;
+    line-height: 224px;
+    height: 224px;
+    margin: 0 35px;
+    background: url("../img/designCenter/cricle-bg.png") no-repeat center;
+}
+.screen-four{
+    color: #040000;
+    height: 909px;
+    background: url("../img/designCenter/screen-four-bg.jpg") no-repeat center;
+}
+.screen-four .screen-four-title{
+    padding: 80px 0 0 110px;
+    font-size: 78px;
+}
+.screen-four .screen-four-subtitle{
+    font-size: 40px;
+    padding:10px 0 0 110px;
+    width: 700px;
+    font-weight: 400;
+}
+.screen-five{
+    text-align: center;
+}
+.screen-five .screen-five-title{
+    padding-top: 80px;
+    font-size: 87px;
+    color: #040000;
+}
+.screen-five .screen-five-content{
+    text-align: left;
+    width: 1050px;
+    margin: 0 auto;
+}
+.screen-five .screen-five-subtitle{
+    font-size: 55px;
+    font-weight: 400;
+}
+.screen-five .screen-five-text{
+    font-size: 36px;
+}
+.screen-five .screen-five-img{
+    padding: 90px 0 150px 0;
+}
+.screen-six{
+    text-align: center;
+    color: #fff;
+    height: 1099px;
+    background: url("../img/designCenter/screen-six-bg.jpg") no-repeat center;
+}
+.screen-six .screen-six-title{
+    padding-top: 60px;
+    font-size: 68px;
+}
+.screen-six .screen-six-subtitle{
+    font-size: 54px;
+}
+.screen-seven{
+    color: #040000;
+    padding-bottom: 80px;
+}
+.screen-seven-title{
+    text-align: center;
+    padding-top: 70px;
+    font-size: 70px;
+
+}
+.screen-seven-list{
+    width: 1200px;
+    margin:0 auto;
+}
+.screen-seven-item{
+    float: left;
+    width: 300px;
+}
+.screen-seven-item-img{
+    height: 174px;
+    width: 100%;
+}
+.screen-seven-item-img1{
+    background: url("../img/designCenter/sc-7-item1-icon.png") no-repeat center;
+}
+.screen-seven-item-img2{
+    background: url("../img/designCenter/sc-7-item2-icon.png") no-repeat center;
+}
+.screen-seven-item-img3{
+    background: url("../img/designCenter/sc-7-item3-icon.png") no-repeat center;
+}
+.screen-seven-item-img4{
+    background: url("../img/designCenter/sc-7-item4-icon.png") no-repeat center;
+}
+.screen-seven-item-title{
+    padding-top: 14px;
+    text-align: center;
+    font-size: 35px;
+}
+.screen-seven-item-text{
+    font-size: 18px;
+    padding: 20px 0 0 50px;
+}
+.screen-ten{
+    text-align: center;
+    height: 923px;
+    background: url("../img/designCenter/screen-ten-bg.jpg") no-repeat center;
+}
+.screen-ten-title{
+    padding-top: 70px;
+    font-size: 66px;
+    color: #fff;
+}
+.free-text{
+    font-size: 62px;
+    color: #00aeff;
+}
+.screen-ten .apply-now{
+    text-decoration: none;
+    display: inline-block;
+    width: 402px;
+    color: #fff;
+    height: 402px;
+    line-height: 402px;
+    font-size: 82px;
+    background: url("../img/designCenter/apply-now-bg.png") no-repeat center;
+}
