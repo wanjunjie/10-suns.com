@@ -28,7 +28,5 @@
             return $(window).height();
         });
     });
-
-    $("#LC").load("lc/index.html");
-
+    
 });
